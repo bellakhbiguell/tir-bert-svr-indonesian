@@ -41,8 +41,8 @@ The notebooks were written for Google Colab with a Google Drive layout (`JURNAL-
 
 ## License
 
-Code: MIT (see `LICENSE`). Annotations and splits: CC BY 4.0. `[AUTHORS: confirm the data license.]`
+Code: MIT (see LICENSE). Annotations and splits: CC BY 4.0.
 
 ## Citation
 
-`[Citation and DOI to be added after publication.]`
+`[Citation will be added after publication.]`
